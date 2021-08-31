@@ -1,0 +1,12 @@
+/home/naima/revature/08162021-dotnet-uta/NaimaJacksonRepo/projects/Project_0/Project0.StoreApplication.Domain/bin/Debug/net5.0/Project0.StoreApplication.Domain.deps.json
+/home/naima/revature/08162021-dotnet-uta/NaimaJacksonRepo/projects/Project_0/Project0.StoreApplication.Domain/bin/Debug/net5.0/Project0.StoreApplication.Domain.dll
+/home/naima/revature/08162021-dotnet-uta/NaimaJacksonRepo/projects/Project_0/Project0.StoreApplication.Domain/bin/Debug/net5.0/ref/Project0.StoreApplication.Domain.dll
+/home/naima/revature/08162021-dotnet-uta/NaimaJacksonRepo/projects/Project_0/Project0.StoreApplication.Domain/bin/Debug/net5.0/Project0.StoreApplication.Domain.pdb
+/home/naima/revature/08162021-dotnet-uta/NaimaJacksonRepo/projects/Project_0/Project0.StoreApplication.Domain/obj/Debug/net5.0/Project0.StoreApplication.Domain.csproj.AssemblyReference.cache
+/home/naima/revature/08162021-dotnet-uta/NaimaJacksonRepo/projects/Project_0/Project0.StoreApplication.Domain/obj/Debug/net5.0/Project0.StoreApplication.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/home/naima/revature/08162021-dotnet-uta/NaimaJacksonRepo/projects/Project_0/Project0.StoreApplication.Domain/obj/Debug/net5.0/Project0.StoreApplication.Domain.AssemblyInfoInputs.cache
+/home/naima/revature/08162021-dotnet-uta/NaimaJacksonRepo/projects/Project_0/Project0.StoreApplication.Domain/obj/Debug/net5.0/Project0.StoreApplication.Domain.AssemblyInfo.cs
+/home/naima/revature/08162021-dotnet-uta/NaimaJacksonRepo/projects/Project_0/Project0.StoreApplication.Domain/obj/Debug/net5.0/Project0.StoreApplication.Domain.csproj.CoreCompileInputs.cache
+/home/naima/revature/08162021-dotnet-uta/NaimaJacksonRepo/projects/Project_0/Project0.StoreApplication.Domain/obj/Debug/net5.0/Project0.StoreApplication.Domain.dll
+/home/naima/revature/08162021-dotnet-uta/NaimaJacksonRepo/projects/Project_0/Project0.StoreApplication.Domain/obj/Debug/net5.0/ref/Project0.StoreApplication.Domain.dll
+/home/naima/revature/08162021-dotnet-uta/NaimaJacksonRepo/projects/Project_0/Project0.StoreApplication.Domain/obj/Debug/net5.0/Project0.StoreApplication.Domain.pdb
